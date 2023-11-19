@@ -19,6 +19,7 @@ const ProductCard = (props) => {
            <Row>
             <Col>
            <Card.Text>Rs. {product.PRICE}</Card.Text>
+           {/* <Card.Text>Rs. {product.FOOD_AVAILABLE}</Card.Text> */}
            </Col>
            <Col>
             {productQuantity > 0 ?
