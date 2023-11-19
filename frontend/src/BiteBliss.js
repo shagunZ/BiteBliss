@@ -9,7 +9,7 @@ PLACE_NAME: "PAHALWANS",
     "Atta Bread", "White Bread", "Masala Bread", "Fruit Bread", "Garlic Bread", "Oats Bread", "Multigrain Bread", "Sugar Free Butter Toast", "Suji Rusk", "Butter Toast", "Atta Cookies", "Butter Cake Rusk", "Almond Sugar Free Cookies", "Black Forest Pastry", "Fruit Cream", "Cupcake", "Donut", "Mountain Dew Can", "Pepsi Can", "Lassi", "Khajoor", "Amarti", "Paneer Jalebi", "Gujia", "Kaju Roll", "Milk Chocolate", "Dhanedar Barfi", "Dhoda Burfi", "Badam Pinni", "Shahi Pinni", "Motichoor Ladoo", "Kaju Barfi", "Chana Rice", "Chana Bhatura", "Spring Roll", "Spinach Cheese Corn Sandwich", "Paneer Roll", "Paneer Patty", "Veg Patty", "Aloo Tokri", "Samosa Chana", "Onion Uttapam", "Paneer Uttapam", "Mix Uttapam", "Onion Dosa", "Sugar Free Channa Burfi", "Sugar Free Amarati", "Sugar Free Burfi", "Sugar Free Ladoo", "Gulab Katli", "Dry Fruit Ladoo"
     ],
   PRICE: 400,
-  img:"https://plus.unsplash.com/premium_photo-1672436880050-e876098f3032?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxhY2slMjB0ZWF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+  img:"https://media.vogue.in/wp-content/uploads/2020/08/chole-bhature-recipe.jpg",
 },
 {
   _id: {
@@ -21,7 +21,7 @@ PLACE_NAME: "PAHALWANS",
     "Fried Papad", "Veg Salad", "Mixed Veg", "Raita", "Plain Curd", "Garlic Bread", "Raj Kachori", "Papdi Chaat", "Dahi Bhalla", "Kalari Kulcha", "Chana Bhatura", "Chana Puri", "Chana Samosa", "Stuffed Kulcha", "Laccha Parantha", "Churi Naan", "Plain Naan", "Butter Roti", "Plain Roti", "Kwality Special Sandwich", "Chilli Cheese Sandwich", "Cheese Grilled Sandwich", "Grilled Sandwich", "Veg Sandwich", "Kwality Burger", "Paneer Burger", "Cheese Burger", "Veg Burger", "Chilli Paneer Dry", "American Chopsuey", "Veg Chopsuey", "Veg Singapore Noodles", "Veg Mushroom Fried Rice", "Dry Fruit Rabri Faluda", "Dry Fruit Rabri", "Matka Kulfi", "Rasgulla", "Fresh Lime Soda Salt", "Fresh Lime Soda Sweet", "Badaam Milk", "Chocolate Shake", "Cold Coffee", "Banana Shake", "Strawberry Shake", "Vanilla Shake", "Mango Shake", "Paneer Kulcha", "Gobi Kulcha", "Aloo Kulcha", "Amritsari Kulcha", "Special Rajma", "Fry Paneer Bhurji", "Mutter Paneer", "Navratan Korma", "Paneer Pasanda", "Malai Kofta", "Achari Momos", "Malai Momos", "Veg Fried Momos", "Veg Steamed Momos", "Achari Champ", "Malai Champ", "Veg White Pasta", "Veg Red Pasta", "Veg Pulao", "Jeera Rice", "Plain Rice", "Veg Biryani", "Pav Bhaji", "Veg Manchow Soup", "Veg Noodle Soup", "Garlic Mushroom Soup", "Veg Hot And Sour Soup", "Veg Sweet Corn Soup", "Mushroom Duplex", "Paneer Tikka", "Mushroom Tikka", "Chinese Thali", "Deluxe Thali", "Veg Thali"
   ],
   PRICE: 300,
-  img:"https://images.unsplash.com/photo-1567357502214-dd13f3512e71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YWZmb2dhdG98ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+  img:"https://www.kuldeeprai.in/wp-content/uploads/2021/08/Gulabjamun-Desi-Ghee.jpg",
 },
 {
   _id: {
@@ -33,7 +33,7 @@ PLACE_NAME: "PAHALWANS",
     "Fried Papad", "Veg Salad", "Mixed Veg", "Raita", "Plain Curd", "Garlic Bread", "Raj Kachori", "Papdi Chaat", "Dahi Bhalla", "Kalari Kulcha", "Chana Bhatura", "Chana Puri", "Chana Samosa", "Stuffed Kulcha", "Laccha Parantha", "Churi Naan", "Plain Naan", "Butter Roti", "Plain Roti", "Kwality Special Sandwich", "Chilli Cheese Sandwich", "Cheese Grilled Sandwich", "Grilled Sandwich", "Veg Sandwich", "Kwality Burger", "Paneer Burger", "Cheese Burger", "Veg Burger", "Chilli Paneer Dry", "American Chopsuey", "Veg Chopsuey", "Veg Singapore Noodles", "Veg Mushroom Fried Rice", "Dry Fruit Rabri Faluda", "Dry Fruit Rabri", "Matka Kulfi", "Rasgulla", "Fresh Lime Soda Salt", "Fresh Lime Soda Sweet", "Badaam Milk", "Chocolate Shake", "Cold Coffee", "Banana Shake", "Strawberry Shake", "Vanilla Shake", "Mango Shake", "Paneer Kulcha", "Gobi Kulcha", "Aloo Kulcha", "Amritsari Kulcha", "Special Rajma", "Fry Paneer Bhurji", "Mutter Paneer", "Navratan Korma", "Paneer Pasanda", "Malai Kofta", "Achari Momos", "Malai Momos", "Veg Fried Momos", "Veg Steamed Momos", "Achari Champ", "Malai Champ", "Veg White Pasta", "Veg Red Pasta", "Veg Pulao", "Jeera Rice", "Plain Rice", "Veg Biryani", "Pav Bhaji", "Veg Manchow Soup", "Veg Noodle Soup", "Garlic Mushroom Soup", "Veg Hot And Sour Soup", "Veg Sweet Corn Soup", "Mushroom Duplex", "Paneer Tikka", "Mushroom Tikka", "Chinese Thali", "Deluxe Thali", "Veg Thali"
   ],
   PRICE: 600,
-  img:"https://plus.unsplash.com/premium_photo-1663012978924-5bfd443ac932?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9jaGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+  img:"https://images7.alphacoders.com/132/1323971.png",
 },
 {
   _id: {
@@ -45,6 +45,7 @@ PLACE_NAME: "PAHALWANS",
   FOOD_AVAILABLE: [
     "Fried Papad", "Veg Salad", "Mixed Veg", "Raita", "Plain Curd", "Garlic Bread", "Raj Kachori", "Papdi Chaat", "Dahi Bhalla", "Kalari Kulcha", "Chana Bhatura", "Chana Puri", "Chana Samosa", "Stuffed Kulcha", "Laccha Parantha", "Churi Naan", "Plain Naan", "Butter Roti", "Plain Roti", "Kwality Special Sandwich", "Chilli Cheese Sandwich", "Cheese Grilled Sandwich", "Grilled Sandwich", "Veg Sandwich", "Kwality Burger", "Paneer Burger", "Cheese Burger", "Veg Burger", "Chilli Paneer Dry", "American Chopsuey", "Veg Chopsuey", "Veg Singapore Noodles", "Veg Mushroom Fried Rice", "Dry Fruit Rabri Faluda", "Dry Fruit Rabri", "Matka Kulfi", "Rasgulla", "Fresh Lime Soda Salt", "Fresh Lime Soda Sweet", "Badaam Milk", "Chocolate Shake", "Cold Coffee", "Banana Shake", "Strawberry Shake", "Vanilla Shake", "Mango Shake", "Paneer Kulcha", "Gobi Kulcha", "Aloo Kulcha", "Amritsari Kulcha", "Special Rajma", "Fry Paneer Bhurji", "Mutter Paneer", "Navratan Korma", "Paneer Pasanda", "Malai Kofta", "Achari Momos", "Malai Momos", "Veg Fried Momos", "Veg Steamed Momos", "Achari Champ", "Malai Champ", "Veg White Pasta", "Veg Red Pasta", "Veg Pulao", "Jeera Rice", "Plain Rice", "Veg Biryani", "Pav Bhaji", "Veg Manchow Soup", "Veg Noodle Soup", "Garlic Mushroom Soup", "Veg Hot And Sour Soup", "Veg Sweet Corn Soup", "Mushroom Duplex", "Paneer Tikka", "Mushroom Tikka", "Chinese Thali", "Deluxe Thali", "Veg Thali"
   ],
+  img:"https://media.istockphoto.com/id/185321530/photo/appetiser-platter-grilled-buffalo-chicken-wings-potato-skins.jpg?s=612x612&w=0&k=20&c=4NscTpA1c7ydimuxJxumEZ7MmZtnoNrlKRXFFqJqCz0=",
 },
 {
   _id: {
@@ -56,6 +57,7 @@ PLACE_NAME: "PAHALWANS",
   FOOD_AVAILABLE: [
     "Fried Papad", "Veg Salad", "Mixed Veg", "Raita", "Plain Curd", "Garlic Bread", "Raj Kachori", "Papdi Chaat", "Dahi Bhalla", "Kalari Kulcha", "Chana Bhatura", "Chana Puri", "Chana Samosa", "Stuffed Kulcha", "Laccha Parantha", "Churi Naan", "Plain Naan", "Butter Roti", "Plain Roti", "Kwality Special Sandwich", "Chilli Cheese Sandwich", "Cheese Grilled Sandwich", "Grilled Sandwich", "Veg Sandwich", "Kwality Burger", "Paneer Burger", "Cheese Burger", "Veg Burger", "Chilli Paneer Dry", "American Chopsuey", "Veg Chopsuey", "Veg Singapore Noodles", "Veg Mushroom Fried Rice", "Dry Fruit Rabri Faluda", "Dry Fruit Rabri", "Matka Kulfi", "Rasgulla", "Fresh Lime Soda Salt", "Fresh Lime Soda Sweet", "Badaam Milk", "Chocolate Shake", "Cold Coffee", "Banana Shake", "Strawberry Shake", "Vanilla Shake", "Mango Shake", "Paneer Kulcha", "Gobi Kulcha", "Aloo Kulcha", "Amritsari Kulcha", "Special Rajma", "Fry Paneer Bhurji", "Mutter Paneer", "Navratan Korma", "Paneer Pasanda", "Malai Kofta", "Achari Momos", "Malai Momos", "Veg Fried Momos", "Veg Steamed Momos", "Achari Champ", "Malai Champ", "Veg White Pasta", "Veg Red Pasta", "Veg Pulao", "Jeera Rice", "Plain Rice", "Veg Biryani", "Pav Bhaji", "Veg Manchow Soup", "Veg Noodle Soup", "Garlic Mushroom Soup", "Veg Hot And Sour Soup", "Veg Sweet Corn Soup", "Mushroom Duplex", "Paneer Tikka", "Mushroom Tikka", "Chinese Thali", "Deluxe Thali", "Veg Thali"
   ],
+  img:"https://geekrobocook.com/wp-content/uploads/2021/04/Chilli-paneer.jpg",
 },
 {
   _id: {
@@ -66,7 +68,8 @@ PLACE_NAME: "PAHALWANS",
   PRICE: 1200,
   FOOD_AVAILABLE: [
     "Fried Papad", "Veg Salad", "Mixed Veg", "Raita", "Plain Curd", "Garlic Bread", "Raj Kachori", "Papdi Chaat", "Dahi Bhalla", "Kalari Kulcha", "Chana Bhatura", "Chana Puri", "Chana Samosa", "Stuffed Kulcha", "Laccha Parantha", "Churi Naan", "Plain Naan", "Butter Roti", "Plain Roti", "Kwality Special Sandwich", "Chilli Cheese Sandwich", "Cheese Grilled Sandwich", "Grilled Sandwich", "Veg Sandwich", "Kwality Burger", "Paneer Burger", "Cheese Burger", "Veg Burger", "Chilli Paneer Dry", "American Chopsuey", "Veg Chopsuey", "Veg Singapore Noodles", "Veg Mushroom Fried Rice", "Dry Fruit Rabri Faluda", "Dry Fruit Rabri", "Matka Kulfi", "Rasgulla", "Fresh Lime Soda Salt", "Fresh Lime Soda Sweet", "Badaam Milk", "Chocolate Shake", "Cold Coffee", "Banana Shake", "Strawberry Shake", "Vanilla Shake", "Mango Shake", "Paneer Kulcha", "Gobi Kulcha", "Aloo Kulcha", "Amritsari Kulcha", "Special Rajma", "Fry Paneer Bhurji", "Mutter Paneer", "Navratan Korma", "Paneer Pasanda", "Malai Kofta", "Achari Momos", "Malai Momos", "Veg Fried Momos", "Veg Steamed Momos", "Achari Champ", "Malai Champ", "Veg White Pasta", "Veg Red Pasta", "Veg Pulao", "Jeera Rice", "Plain Rice", "Veg Biryani", "Pav Bhaji", "Veg Manchow Soup", "Veg Noodle Soup", "Garlic Mushroom Soup", "Veg Hot And Sour Soup", "Veg Sweet Corn Soup", "Mushroom Duplex", "Paneer Tikka", "Mushroom Tikka", "Chinese Thali", "Deluxe Thali", "Veg Thali"
-  ],
+  ],  
+  img:"https://www.shemins.com/wp-content/uploads/2017/05/Shemins-Butter-Chicken-LR.jpg",
 },
 {
   _id: {
@@ -78,6 +81,7 @@ PLACE_NAME: "PAHALWANS",
   FOOD_AVAILABLE: [
     "Fried Papad", "Veg Salad", "Mixed Veg", "Raita", "Plain Curd", "Garlic Bread", "Raj Kachori", "Papdi Chaat", "Dahi Bhalla", "Kalari Kulcha", "Chana Bhatura", "Chana Puri", "Chana Samosa", "Stuffed Kulcha", "Laccha Parantha", "Churi Naan", "Plain Naan", "Butter Roti", "Plain Roti", "Kwality Special Sandwich", "Chilli Cheese Sandwich", "Cheese Grilled Sandwich", "Grilled Sandwich", "Veg Sandwich", "Kwality Burger", "Paneer Burger", "Cheese Burger", "Veg Burger", "Chilli Paneer Dry", "American Chopsuey", "Veg Chopsuey", "Veg Singapore Noodles", "Veg Mushroom Fried Rice", "Dry Fruit Rabri Faluda", "Dry Fruit Rabri", "Matka Kulfi", "Rasgulla", "Fresh Lime Soda Salt", "Fresh Lime Soda Sweet", "Badaam Milk", "Chocolate Shake", "Cold Coffee", "Banana Shake", "Strawberry Shake", "Vanilla Shake", "Mango Shake", "Paneer Kulcha", "Gobi Kulcha", "Aloo Kulcha", "Amritsari Kulcha", "Special Rajma", "Fry Paneer Bhurji", "Mutter Paneer", "Navratan Korma", "Paneer Pasanda", "Malai Kofta", "Achari Momos", "Malai Momos", "Veg Fried Momos", "Veg Steamed Momos", "Achari Champ", "Malai Champ", "Veg White Pasta", "Veg Red Pasta", "Veg Pulao", "Jeera Rice", "Plain Rice", "Veg Biryani", "Pav Bhaji", "Veg Manchow Soup", "Veg Noodle Soup", "Garlic Mushroom Soup", "Veg Hot And Sour Soup", "Veg Sweet Corn Soup", "Mushroom Duplex", "Paneer Tikka", "Mushroom Tikka", "Chinese Thali", "Deluxe Thali", "Veg Thali"
   ],
+  img:"https://media.vogue.in/wp-content/uploads/2020/08/dal-makhani-recipe.jpg",
 },
 {
   _id: {
@@ -89,6 +93,7 @@ PLACE_NAME: "PAHALWANS",
   FOOD_AVAILABLE: [
     "Fried Papad", "Veg Salad", "Mixed Veg", "Raita", "Plain Curd", "Garlic Bread", "Raj Kachori", "Papdi Chaat", "Dahi Bhalla", "Kalari Kulcha", "Chana Bhatura", "Chana Puri", "Chana Samosa", "Stuffed Kulcha", "Laccha Parantha", "Churi Naan", "Plain Naan", "Butter Roti", "Plain Roti", "Kwality Special Sandwich", "Chilli Cheese Sandwich", "Cheese Grilled Sandwich", "Grilled Sandwich", "Veg Sandwich", "Kwality Burger", "Paneer Burger", "Cheese Burger", "Veg Burger", "Chilli Paneer Dry", "American Chopsuey", "Veg Chopsuey", "Veg Singapore Noodles", "Veg Mushroom Fried Rice", "Dry Fruit Rabri Faluda", "Dry Fruit Rabri", "Matka Kulfi", "Rasgulla", "Fresh Lime Soda Salt", "Fresh Lime Soda Sweet", "Badaam Milk", "Chocolate Shake", "Cold Coffee", "Banana Shake", "Strawberry Shake", "Vanilla Shake", "Mango Shake", "Paneer Kulcha", "Gobi Kulcha", "Aloo Kulcha", "Amritsari Kulcha", "Special Rajma", "Fry Paneer Bhurji", "Mutter Paneer", "Navratan Korma", "Paneer Pasanda", "Malai Kofta", "Achari Momos", "Malai Momos", "Veg Fried Momos", "Veg Steamed Momos", "Achari Champ", "Malai Champ", "Veg White Pasta", "Veg Red Pasta", "Veg Pulao", "Jeera Rice", "Plain Rice", "Veg Biryani", "Pav Bhaji", "Veg Manchow Soup", "Veg Noodle Soup", "Garlic Mushroom Soup", "Veg Hot And Sour Soup", "Veg Sweet Corn Soup", "Mushroom Duplex", "Paneer Tikka", "Mushroom Tikka", "Chinese Thali", "Deluxe Thali", "Veg Thali"
   ],
+  img:"https://e0.pxfuel.com/wallpapers/185/30/desktop-wallpaper-dosa-masala-dosa.jpg",
 },
 {
   _id: {
@@ -100,6 +105,7 @@ PLACE_NAME: "PAHALWANS",
   FOOD_AVAILABLE: [
     "Fried Papad", "Veg Salad", "Mixed Veg", "Raita", "Plain Curd", "Garlic Bread", "Raj Kachori", "Papdi Chaat", "Dahi Bhalla", "Kalari Kulcha", "Chana Bhatura", "Chana Puri", "Chana Samosa", "Stuffed Kulcha", "Laccha Parantha", "Churi Naan", "Plain Naan", "Butter Roti", "Plain Roti", "Kwality Special Sandwich", "Chilli Cheese Sandwich", "Cheese Grilled Sandwich", "Grilled Sandwich", "Veg Sandwich", "Kwality Burger", "Paneer Burger", "Cheese Burger", "Veg Burger", "Chilli Paneer Dry", "American Chopsuey", "Veg Chopsuey", "Veg Singapore Noodles", "Veg Mushroom Fried Rice", "Dry Fruit Rabri Faluda", "Dry Fruit Rabri", "Matka Kulfi", "Rasgulla", "Fresh Lime Soda Salt", "Fresh Lime Soda Sweet", "Badaam Milk", "Chocolate Shake", "Cold Coffee", "Banana Shake", "Strawberry Shake", "Vanilla Shake", "Mango Shake", "Paneer Kulcha", "Gobi Kulcha", "Aloo Kulcha", "Amritsari Kulcha", "Special Rajma", "Fry Paneer Bhurji", "Mutter Paneer", "Navratan Korma", "Paneer Pasanda", "Malai Kofta", "Achari Momos", "Malai Momos", "Veg Fried Momos", "Veg Steamed Momos", "Achari Champ", "Malai Champ", "Veg White Pasta", "Veg Red Pasta", "Veg Pulao", "Jeera Rice", "Plain Rice", "Veg Biryani", "Pav Bhaji", "Veg Manchow Soup", "Veg Noodle Soup", "Garlic Mushroom Soup", "Veg Hot And Sour Soup", "Veg Sweet Corn Soup", "Mushroom Duplex", "Paneer Tikka", "Mushroom Tikka", "Chinese Thali", "Deluxe Thali", "Veg Thali"
   ],
+  img:"https://i.ytimg.com/vi/o6iq_jhJMpo/maxresdefault.jpg",
 }
 ]
 
