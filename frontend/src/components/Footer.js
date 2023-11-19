@@ -26,10 +26,10 @@ const Footer = () => {
               roundedCircle
             />
           </a>
-          <span className="ms-4 h5 mb-0 font-weight-bold" style={{ color: "white" }}>Buy Me Sip</span>
+          <span className="ms-4 h5 mb-0 font-weight-bold" style={{ color: "white" }}>BiteBliss</span>
         </CDBBox>
         <CDBBox>
-          <small className="ms-2" style={{ color: "white" }}>&copy; BuyMeSip, 2023. All rights reserved.</small>
+          <small className="ms-2" style={{ color: "white" }}>&copy; BiteBliss, 2023. All rights reserved.</small>
         </CDBBox>
         <CDBBox display="flex">
           <CDBBtn style={{ background: "linear-gradient(90deg, #a11242 0%, #411d0e 100%)" }} flat color="dark" className="p-2">

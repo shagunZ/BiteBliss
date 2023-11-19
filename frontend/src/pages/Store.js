@@ -1,5 +1,5 @@
-import React,{useState,useEffect} from 'react'
-import { Row, Col ,Form} from 'react-bootstrap'
+import React, { useState, useEffect } from 'react'
+import { Row, Col, Form } from 'react-bootstrap'
 // import {productsArray} from '../productsStore'
 import { productsArray } from '../BiteBliss'
 import ProductCard from '../components/ProductCard'
@@ -20,7 +20,7 @@ const Store = () => {
     setFilteredProducts(filtered);
   };
   useEffect(() => {
-    setFilteredProducts(productsArray); 
+    setFilteredProducts(productsArray);
   }, []);
 
   return (
@@ -37,26 +37,26 @@ const Store = () => {
         </div>
       </div>
 
-      <div style={{ color: "white", fontSize: '35px', padding: '15px ', backgroundColor:'#010103' }}>Welcome to our store!</div>
-      <div className='border-b-2 border-blue py-2'>
-      <Form className='mb-3 container' style={{ width:"50%" }}>
-        <Form.Control
-          type='text'
-          placeholder='Search by food item'
-          value={searchQuery}
-          onChange={handleSearch}
-        />
-      </Form>
-      <Row xs={1} md={3} className='g-4'>
-        {filteredProducts.map((product, index) => (
-          <Col align="center" key={index}>
-            <ProductCard product={product} />
-          </Col>
-        ))}
-      </Row>
+      <div style={{ color: "white", fontSize: '35px', padding: '15px ', backgroundColor: '#010103' }}>Welcome to our store!</div>
+      <div style={{backgroundColor:'#010103', padding:'42px 84px'}}>
+        <Form className='mb-3 container' style={{ width: "50%",backgroundColor:'#010103' }}>
+          <Form.Control
+            type='text'
+            placeholder='Search by food item'
+            value={searchQuery}
+            onChange={handleSearch}
+          />
+        </Form>
+        <Row xs={1} md={3} className='g-4'>
+          {filteredProducts.map((product, index) => (
+            <Col align="center" key={index}>
+              <ProductCard product={product} />
+            </Col>
+          ))}
+        </Row>
       </div>
     </div>
-    
+
   )
 }
 
