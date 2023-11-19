@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 font-family:'Times New Roman', Times, serif ;
 
 }
@@ -58,4 +57,48 @@ margin-top:2%;
   to {
     transform: rotate(360deg);
   }
+}
+
+.xx{
+	color: #f5f5f5;
+  background-color: #010103;
+  border-bottom: 2px solid yellow;
+}
+
+.storebanner{
+  background-image: url('https://codingcirculate-restaurant-design.on.fleek.co/static/media/home-img.965e18e60a1521e7e1af');
+  background-position: center center;
+  height: 90vh;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-color: rgba(0,0,0,.6);
+  padding-left: 25px;
+  padding-top: 150px;
+}
+
+.storebannerdata{
+  
+  font-family: sans-serif;
+  text-align: left;
+  width: 500px;
+}
+
+.store1{
+  color: whitesmoke;
+  font-weight: 800;
+  font-size: 50px;
+}
+
+.store2{
+  color: whitesmoke;
+  font-weight: lighter;
+  font-size: 18px;
+  padding-bottom: 25px;
+  color: yellow;
+}
+
+.storebtn{
+  background-color: yellow;
+  color: whitesmoke;
+  padding: 5px 45px;
 }
