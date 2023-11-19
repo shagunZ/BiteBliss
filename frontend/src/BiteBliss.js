@@ -6,7 +6,8 @@ const productsArray = [
   TYPE: "NORTH INDIAN",
   PLACE_NAME: "PAHALWANS",
   FOOD_AVAILABLE: "Atta Bread White Bread Masala Bread Fruit Bread Garlic Bread Oats Bread Multigrain Bread Sugar Free Butter Toast  Grams Suji Rusk  Gms Butter Toast   Gms  Atta Cookies  Grams Butter Cake Rusk  Grams Almond Sugar Free Cookies  Grams\nBlack Forest Pastry Fruit Cream   Gms  Cupcake Donut Mountain Dew Can  Ml Pepsi Can  Ml Lassi  Ml Khajoor  Kg Amartigrams Paneer Jalebikg Gujiakg Kaju Rollgrams Milk Chocolategrams Dhanedar Barfikg Dhoda Burfikg Badam Pinnikg Shahi Pinnigrams Motichoor Ladookg Kaju Barfigrams Chana Rice Chana Bhatura\nSpring Roll Spinach Cheese Corn Sandwich Paneer Roll Paneer Patty Veg Patty Aloo Tokri Samosa Chana  Pieces Onion Uttapam Paneer Uttapam Mix Uttapam Onion Dosa Sugar Free Channa Burfigrams Sugar Free Amaratigrams Sugar Free Burfigrams Sugar Free Ladoograms Gulab Katli  Grams Dry Fruit Ladoo  Grams",
-  PRICE: 400
+  PRICE: 400,
+  img:"https://plus.unsplash.com/premium_photo-1672436880050-e876098f3032?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxhY2slMjB0ZWF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
 },
 {
   _id: {
@@ -15,7 +16,8 @@ const productsArray = [
   TYPE: "NORTH INDIAN",
   PLACE_NAME: "KWALITY FOOD POINT",
   FOOD_AVAILABLE: "Fried Papad Veg Salad Mixed Veg Raita Plain Curd Garlic Bread Raj Kachori Papdi Chaat Dahi Bhalla Kalari Kulcha Chana Bhatura Chana Puri Chana Samosa Stuffed Kulcha Laccha Parantha Churi Naan Plain Naan Butter Roti Plain Roti Kwality Special Sandwich Chilli Cheese Sandwich Cheese Grilled Sandwich Grilled Sandwich Veg Sandwich Kwality Burger Paneer Burger Cheese Burger Veg Burger Chilli Paneer Dry American Chopsuey Veg Chopsuey Veg Singapore Noodles Veg Mushroom Fried Rice\nDry Fruit Rabri Faluda Dry Fruit Rabri Matka Kulfi Rasgulla  Pieces Fresh Lime Soda Salt Fresh Lime Soda Sweet Badaam Milk Chocolate Shake Cold Coffee Banana Shake Strawberry Shake Vanilla Shake Mango Shake Paneer Kulcha Gobi Kulcha Aloo Kulcha Amritsari Kulcha Special Rajma Fry Paneer Bhurji Mutter Paneer Navratan Korma Paneer Pasanda Malai Kofta Momos & ChampPrice Achari Momos Malai Momos Veg Fried Momos Veg Steamed Momos Achari Champ Malai Champ Veg White Pasta Veg Red Pasta Veg Pulao Jeera Rice Plain Rice Veg Biryani Pav Bhaji  Pieces Of Pav Veg Manchow Soup Veg Noodle Soup Garlic Mushroom Soup Veg Hot And Sour Soup Veg Sweet Corn Soup Mushroom Duplex Paneer Tikka Mushroom Tikka Chinese Thali Deluxe Thali Veg Thali",
-  PRICE: 300
+  PRICE: 300,
+  img:"https://images.unsplash.com/photo-1567357502214-dd13f3512e71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YWZmb2dhdG98ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
 },
 {
   _id: {
@@ -23,7 +25,8 @@ const productsArray = [
   },
   TYPE: "NORTH INDIAN",
   PLACE_NAME: "KC PVR",
-  PRICE: 600
+  PRICE: 600,
+  img:"https://plus.unsplash.com/premium_photo-1663012978924-5bfd443ac932?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9jaGF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
 },
 {
   _id: {
@@ -31,7 +34,8 @@ const productsArray = [
   },
   TYPE: "NORTH INDIAN",
   PLACE_NAME: "THE GRANDSTAND RESTAURANT & SPORTS BAR",
-  PRICE: 1200
+  PRICE: 1200,
+  img:"https://images.unsplash.com/photo-1610889556528-9a770e32642f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZXNwcmVzc298ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
 },
 // {
 //   "_id": {

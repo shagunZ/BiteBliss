@@ -14,7 +14,7 @@ const ProductCard = (props) => {
         <Card.Img variant="top" style={{ height: '15rem' }} src={product.img}/>
         <Card.Body className='flex-column'>
 
-           <Card.Title>{product.PLACE_NAME}</Card.Title>
+           <Card.Title><b>{product.PLACE_NAME}</b><p>{product.TYPE}</p></Card.Title>
            <hr></hr>
            <Row>
             <Col>
