@@ -1,5 +1,5 @@
 import React from 'react'
-import { useContext,useState,useEffect } from 'react';
+import { useContext, useState, useEffect } from 'react';
 import { CartContext } from '../CartContext';
 import { Card, Button, Form, Row, Col } from 'react-bootstrap'
 import { CDBBtn } from "cdbreact";
@@ -12,28 +12,31 @@ const ProductCard = (props) => {
     const productQuantity = cart.getProductQuantity(product._id)
     console.log(cart.items);
     return (
-        <Card className='container py-5' style={{backgroundColor: '#010103', border:'2px solid yellow'}}>
+        <Card className='container py-5' style={{ backgroundColor: '#010103', border: '2px solid yellow' }}>
             <Card.Img variant="top" style={{ height: '15rem' }} src={product.img} />
             <Card.Body className='flex-column'>
 
                 <Card.Title><b>{product.PLACE_NAME}</b><p>{product.TYPE}</p></Card.Title>
                 <hr></hr>
                 <Row>
+                    <Row>
+                        <Card.Text style={{ color: "yellow", fontFamily: 'sans-serif', fontSize: '20px' }}>Rs. {product.PRICE}</Card.Text>
+                    </Row>
                     <Col>
-                    <Card.Text
-              style={{
-                color: 'white',
-                fontFamily: 'sans-serif',
-                fontSize: '20px',
-                maxHeight: '150px', // Set a maximum height for the FOOD_AVAILABLE section
-                overflowY: 'auto', // Enable the scrollbar if content exceeds the maximum height
-              }}
-            >
-              
-              {product.FOOD_AVAILABLE.map((food, foodIndex) => (
-                <div key={foodIndex}>{food}</div>
-              ))}
-            </Card.Text>
+                        <Card.Text
+                            style={{
+                                color: 'white',
+                                fontFamily: 'sans-serif',
+                                fontSize: '20px',
+                                maxHeight: '150px', // Set a maximum height for the FOOD_AVAILABLE section
+                                overflowY: 'auto', // Enable the scrollbar if content exceeds the maximum height
+                            }}
+                        >
+
+                            {product.FOOD_AVAILABLE.map((food, foodIndex) => (
+                                <div key={foodIndex}>{food}</div>
+                            ))}
+                        </Card.Text>
                     </Col>
                     {/* <Col>
                         {productQuantity > 0 ?

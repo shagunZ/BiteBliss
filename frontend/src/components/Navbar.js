@@ -43,8 +43,8 @@ const NavbarComponent = () => {
             roundedCircle
           />
         </Navbar.Brand>
-        <Navbar.Brand className='text-white ' href="/">
-          Buy Me Sip</Navbar.Brand>
+        <Navbar.Brand className='text-white ' style={{fontFamily:'sans-serif'}} href="/">
+          BiteBliss</Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end" />
         <Button onClick={handleShow}>Cart {productsCount} items</Button>
