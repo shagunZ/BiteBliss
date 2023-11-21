@@ -22,7 +22,7 @@ const HomePage = () => {
 
   return (
     <div style={{
-      backgroundImage: `url("https://media.istockphoto.com/id/1400648198/photo/interior-of-empty-modern-cafe-or-restaurant-during-the-day-round-tables-and-yellow-chairs-in.webp?b=1&s=170667a&w=0&k=20&c=PEOXIGWfnNHsVnPF3vojqMzTlSDRpE1uhOdPj7e3Z4g=")`
+      backgroundImage: `url("https://previews.123rf.com/images/mackoflower/mackoflower2103/mackoflower210300117/165222310-traditional-indian-foods-arranged-as-collage-of-the-cuisine.jpg")`
     }}>
 
       <div>
