@@ -10,6 +10,7 @@ PLACE_NAME: "PAHALWANS",
     ],
   PRICE: 400,
   img:"https://media.vogue.in/wp-content/uploads/2020/08/chole-bhature-recipe.jpg",
+  MapLocation:"https://www.google.com/maps/search/PAHALWAN'S+/@32.6966104,74.8093516,11z?entry=ttu",
 },
 {
   _id: {
