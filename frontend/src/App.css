@@ -66,12 +66,12 @@ margin-top:2%;
 }
 
 .storebanner{
-  background-image: url('https://codingcirculate-restaurant-design.on.fleek.co/static/media/home-img.965e18e60a1521e7e1af');
+  background-image: url('https://previews.123rf.com/images/mackoflower/mackoflower2103/mackoflower210300117/165222310-traditional-indian-foods-arranged-as-collage-of-the-cuisine.jpg');
   background-position: center center;
   height: 90vh;
   background-size: cover;
   background-blend-mode: overlay;
-  background-color: rgba(0,0,0,.6);
+  background-color: rgba(34, 33, 33, 0.6);
   padding-left: 25px;
   padding-top: 150px;
 }
