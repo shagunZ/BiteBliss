@@ -40,7 +40,7 @@ const ProductCard = (props) => {
                         <CDBBtn color='#ecdba7' onClick={() => window.open(product.MapLocation, '_blank')} className="my-2 cdbtn" 
                         style={{ color:"white",fontSize:"larger", transition: 'background-color 0.5s'}}
                             >
-                            Visit our Store
+                            Find us
                         </CDBBtn>
 
 
