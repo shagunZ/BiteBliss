@@ -41,7 +41,7 @@ PLACE_NAME: "PAHALWANS",
 "Tandoori Roti", "Stuffed Kulcha", "Plain Roti", "Plain Naan", "Lachha Parantha", "Keema Naan (with Gravy)", "Garlic Naan", "Cheese Stuffed Naan", "Butter Roti"
   ],
   PRICE: 600,
-  img:"https://images7.alphacoders.com/132/1323971.png",
+  img:"https://www.kuldeeprai.in/wp-content/uploads/2021/08/Gulabjamun-Desi-Ghee.jpg",
   MapLocation:"https://www.google.com/maps/place/KC360%C2%B0+Bakery+%26+Restaurant/@32.733457,74.8558007,17.25z/data=!4m6!3m5!1s0x391e8489eae5ebbb:0xaaade917fd513571!8m2!3d32.733538!4d74.8578345!16s%2Fg%2F1hc11xtht?entry=ttu",
 },
 {
