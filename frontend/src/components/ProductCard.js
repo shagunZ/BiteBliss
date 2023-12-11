@@ -3,7 +3,7 @@ import { useContext, useState, useEffect } from 'react';
 import { CartContext } from '../CartContext';
 import { Card, Button, Form, Row, Col } from 'react-bootstrap'
 import { CDBBtn } from "cdbreact";
-
+import '../App.css'
 const ProductCard = (props) => {
 
 
@@ -37,6 +37,13 @@ const ProductCard = (props) => {
                                 <div key={foodIndex}>{food}</div>
                             ))}
                         </Card.Text>
+                        <CDBBtn color='#ecdba7' onClick={() => window.open(product.MapLocation, '_blank')} className="my-2 cdbtn" 
+                        style={{ color:"white",fontSize:"larger", transition: 'background-color 0.5s'}}
+                            >
+                            Visit our Store
+                        </CDBBtn>
+
+
                     </Col>
                     {/* <Col>
                         {productQuantity > 0 ?

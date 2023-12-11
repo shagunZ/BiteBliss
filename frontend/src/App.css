@@ -7,6 +7,12 @@ font-family:'Times New Roman', Times, serif ;
 Button{
   background: linear-gradient(90deg, #a11242 0%, #411d0e 100%);
 }
+
+.cdbtn:hover {
+  background-color: white;
+  /* Add any other styles you want to apply on hover */
+}
+
 .card-title{
 color:brown;
 font-family:'Times New Roman', Times, serif ;
