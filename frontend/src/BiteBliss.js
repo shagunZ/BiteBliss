@@ -23,6 +23,7 @@ PLACE_NAME: "PAHALWANS",
   ],
   PRICE: 300,
   img:"https://www.kuldeeprai.in/wp-content/uploads/2021/08/Gulabjamun-Desi-Ghee.jpg",
+  MapLocation:"https://www.google.com/maps/place/Kwality+Sweets/@32.7277529,74.8465571,17z/data=!3m1!4b1!4m6!3m5!1s0x391e84f367159fe5:0x54f682168fab860b!8m2!3d32.7277484!4d74.849132!16s%2Fg%2F1td5pnvz?entry=ttu",
 },
 {
   _id: {
@@ -41,6 +42,7 @@ PLACE_NAME: "PAHALWANS",
   ],
   PRICE: 600,
   img:"https://images7.alphacoders.com/132/1323971.png",
+  MapLocation:"https://www.google.com/maps/place/KC360%C2%B0+Bakery+%26+Restaurant/@32.733457,74.8558007,17.25z/data=!4m6!3m5!1s0x391e8489eae5ebbb:0xaaade917fd513571!8m2!3d32.733538!4d74.8578345!16s%2Fg%2F1hc11xtht?entry=ttu",
 },
 {
   _id: {
@@ -66,6 +68,7 @@ PLACE_NAME: "PAHALWANS",
 "Starters", "Persian Joojeh Kebab", "Murgh Masala Seekh", "Amritsari Fish", "Kasundi Lemon Fish", "Pahadi Fish", "Chicken Afghani Malai Tikka", "Pahadi Chicken Tikka", "Charred Malai Broccoli", "Soya Afghani Malai Tikka", "Classic Patiala Style Soya Tikka", "Pahadi Soya Tikka", "Classic Patiala Style Paneer Tikka", "Paneer Afghani Malai Tikka", "Pahadi Paneer Tikka", "Chicken Manchurian", "Haryali Soya Chaap", "Tandoori Soya Chaap", "Afghani Soya Chaap", "Honey Chilli Potatos", "Chilli Soya Bites", "Pav Bhaji", "Masala French Fries", "Salted French Fries", "Peanut Masala", "Beijing Paneer", "Asian Hot Garlic Chicken With Sesame And Spring Onion Dip", "Chicken Katsu With Gochujang Mayo", "Teriyaki Bbq Jackfruit N Wittled Pok Choi", "Chili Bean Mushroom With Sriracha Coconut Mayo", "Lemongrass Chicken Skewers", "Chicken Fried Clazone", "Stuffed Buns", "Veg Fried Clazone", "Chicken N Jalapeno Filled Garlic Bread", "British Fish And Chips", "Mushroom Balls", "Mushroom & Cheese Filled Garlic Bread", "Chili Tamarind Steamed Fish", "Chili Lime Fish Cake", "Thai Chilli Basil Fish", "Fried Hot Wings", "German Chicken Strips", "Korean Chilli Prawns", "Schezwan Baby Corn N Mushroom", "Sriracha Chilli Paneer", "Honey Chilli Lotus Crispies", "Masala Fried Fish", "Nimbu Mirchi Chicken Tikka", "Anardana Fish Tikka", "Tandoori Wings", "Mutton Laal Maas Galouti", "Old Delhi Mutton Seekh"
   ],
   img:"https://media.istockphoto.com/id/185321530/photo/appetiser-platter-grilled-buffalo-chicken-wings-potato-skins.jpg?s=612x612&w=0&k=20&c=4NscTpA1c7ydimuxJxumEZ7MmZtnoNrlKRXFFqJqCz0=",
+  MapLocation:"https://www.google.com/maps/place/The+Grandstand+(Restaurant+%26+Sports+Bar)/@32.7292103,74.844971,17z/data=!3m1!4b1!4m6!3m5!1s0x391e85e6e47657cb:0xbc4e38ae30dc6710!8m2!3d32.7292058!4d74.8475459!16s%2Fg%2F11fb0s32ml?entry=ttu",
 },
 {
   _id: {
@@ -82,6 +85,7 @@ PLACE_NAME: "PAHALWANS",
    "Plain Rice", "Like Jeera Rice", "Like Veg Fried Rice", "Like Veg Pulao", "Like Veg Biryani Rice", "Like Dal Rice Fry", "Like Rajama Rice Fry", "Like Kadhi Rice Fry",
   ],
   img:"https://geekrobocook.com/wp-content/uploads/2021/04/Chilli-paneer.jpg",
+  MapLocation:"https://www.google.com/maps/search/khana+khazana/@32.7284671,74.8424709,14.75z?entry=ttu",
 },
 {
   _id: {
@@ -98,6 +102,7 @@ PLACE_NAME: "PAHALWANS",
     "Tandoori Roti", "Stuffed Kulcha", "Plain Roti", "Plain Naan", "Lachha Parantha", "Keema Naan (with Gravy)", "Garlic Naan", "Cheese Stuffed Naan", "Butter Roti"
   ],  
   img:"https://www.shemins.com/wp-content/uploads/2017/05/Shemins-Butter-Chicken-LR.jpg",
+  MapLocation:"https://www.google.com/maps/place/Hotel+K.C.+Residency/@32.7295238,74.8619122,16.5z/data=!4m9!3m8!1s0x391e848431316e95:0xf2302bf0736ca0ab!5m2!4m1!1i2!8m2!3d32.7294277!4d74.8657315!16s%2Fg%2F1tmy3g2m?entry=ttu",
 },
 {
   _id: {
@@ -119,6 +124,7 @@ PLACE_NAME: "PAHALWANS",
 "Zamindara Thalidal mix veg rice 2 roti raita onion chutney", "Like Deluxe Thalidal mix veg paneer rice 2 roti or butter naan raita sweet dish onion chutney"
   ],
   img:"https://media.vogue.in/wp-content/uploads/2020/08/dal-makhani-recipe.jpg",
+  MapLocation:"https://www.google.com/maps/search/zamindara/@32.7296476,74.783152,12z/data=!3m1!4b1?entry=ttu",
 },
 {
   _id: {
@@ -132,6 +138,7 @@ PLACE_NAME: "PAHALWANS",
     "Plain Rice", "Like Jeera Rice", "Like Veg Fried Rice", "Like Veg Pulao", "Like Veg Biryani Rice", "Like Dal Rice Fry", "Like Rajama Rice Fry", "Like Kadhi Rice Fry"
   ],
   img:"https://e0.pxfuel.com/wallpapers/185/30/desktop-wallpaper-dosa-masala-dosa.jpg",
+  MapLocation:"https://www.google.com/maps/search/niharika/@32.6942137,74.8388411,13.5z?entry=ttu",
 },
 {
   _id: {
@@ -151,6 +158,7 @@ PLACE_NAME: "PAHALWANS",
 "Mixed Raita", "Plain Curd", "Onion Raita", "Cucumber Raita"
   ],
   img:"https://i.ytimg.com/vi/o6iq_jhJMpo/maxresdefault.jpg",
+  MapLocation:"https://www.google.com/maps/search/pirates+of+grill/@32.7034669,74.8863592,13.5z?entry=ttu",
 }
 ]
 
